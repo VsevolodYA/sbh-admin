@@ -1,0 +1,8 @@
+/node_modules
+/tmp
+/vendor
+.idea
+app.local.js
+/public/css
+/public/js
+/public/fonts

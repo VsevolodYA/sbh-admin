@@ -1,0 +1,36 @@
+{
+  "name": "slapcenter-admin",
+  "description": "",
+  "main": "",
+  "authors": [
+    "VsevolodY <vsevolod@smallbizsilverlining.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "angular": "1.5",
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.4.2",
+    "satellizer": "^0.15.5",
+    "angularjs-toaster": "*",
+    "angular-animate": "~1.5.9",
+    "restangular": "^1.6.1",
+    "angular-ui-select": "^0.19.6",
+    "angular-sanitize": "1.5",
+    "ng-table": "~1",
+    "bootstrap-switch": "^3.3.4",
+    "angular-bootstrap-switch": "^0.5.1",
+    "angular-bootstrap": "^2.5.0",
+    "moment": "^2.18.1"
+  }
+}

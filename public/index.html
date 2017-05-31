@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<base href="/">-->
+    <title>SLAPCenter AdminPanel</title>
+    <!--<link href="css/bootstrap.css" rel="stylesheet">-->
+    <!--<link href="css/bootstrap-theme.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <toaster-container toaster-options="{'time-out': 15000,'position-class': 'toast-bottom-right'}"></toaster-container>
+    <div ui-view></div>
+
+    <script src="js/vendor.js"></script>
+    <script src="js/app.min.js"></script>
+</body>
+</html>
